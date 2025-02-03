@@ -8,7 +8,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a third-year computer science student at Kasetsart University.
+I am a fourth-year computer science student at Kasetsart University.
 
 ---
 
